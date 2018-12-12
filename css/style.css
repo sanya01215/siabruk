@@ -1,0 +1,18 @@
+section{
+    margin-top: 55px;
+}
+section .container{
+ padding-top: 40px;
+}
+.row{
+    box-sizing: border-box;
+    /*display: flex; */
+    text-align: center;
+}
+.col-lg-4 img{
+    max-width: 70%;
+}
+.col-lg-4{
+     margin-top: 80px;
+    
+}
