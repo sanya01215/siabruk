@@ -13,6 +13,8 @@ section .container{
     max-width: 70%;
 }
 .col-lg-4{
-     margin-top: 80px;
+     margin-top: 20px;
+    margin-bottom: 20px;
+    
     
 }
